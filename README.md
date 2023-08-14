@@ -1,3 +1,6 @@
+#Deskripsi Projek
+program berikut adalah penggunaan framework vue masih dalam progres 
+
 # minggu8
 
 This template should help get you started developing with Vue 3 in Vite.
